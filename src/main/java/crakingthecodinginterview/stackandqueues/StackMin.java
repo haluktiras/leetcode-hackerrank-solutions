@@ -1,4 +1,4 @@
-package crakingthecodinginterview;
+package crakingthecodinginterview.stackandqueues;
 
 /*
 
